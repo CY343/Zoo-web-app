@@ -61,9 +61,20 @@ a.Intro{
  
 }
 
-.watchingU{
-  width: 300px;
-  height: 460px;
-  border-radius: 100px;
+.eg{
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
   
+}
+
+.IntroPara{
+  margin-left: 350px;
+  margin-top: -400px;
+}
+
+.tiger{
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
 }
