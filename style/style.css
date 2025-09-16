@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: rgb(40, 29, 29);
   font-family: 'Times New Roman', Times, serif;
   text-align:left;
   padding: 10px;
@@ -74,6 +74,29 @@ a.Intro{
 }
 
 .tiger{
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.deer{
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.fish{
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.dog{
+  width: 200px;
+  height: 300px;
+  border-radius: 10px;
+}
+.woofwoof{
   width: 200px;
   height: 300px;
   border-radius: 10px;
