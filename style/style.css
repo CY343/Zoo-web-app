@@ -1,9 +1,10 @@
 body {
   background-color: black;
-  font-family: Arial, sans-serif;
-  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  text-align:left;
   padding: 10px;
   color: white;
+  
 }
 img.el {
   width: 300px;
@@ -11,4 +12,58 @@ img.el {
   border-radius: 50px;
   float: left;
   margin-right: 10px;
+}
+
+.userName {
+  margin-left:300px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: large;
+}
+.animalSections{
+  margin-left:320px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: large;
+  margin-bottom:10px;
+  
+}
+.catRoom {
+  margin-left:340px;
+  font-family:'Times New Roman', Times, serif;
+  font-weight:100;
+  font-size: large;
+}
+ul{
+  list-style-type: none; /* removing the dots */
+  padding-left: 0;
+}
+
+a.Intro{
+  margin-bottom: 10px;
+  display: inline-block; /* allowing the padding from next line */
+  font-size: larger;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  margin-left: 10px;
+  color:white;
+
+}
+
+#Introducing-the-zoo{
+  clear:both;
+  margin-top: 100px;
+  margin-left: 330px;
+  font-family:'Times New Roman', Times, serif;  
+  font-style: oblique;
+  color:aliceblue
+  
+ 
+}
+
+.watchingU{
+  width: 300px;
+  height: 460px;
+  border-radius: 100px;
+  
 }
