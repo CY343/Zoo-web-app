@@ -1,7 +1,7 @@
 body {
   background-color: #1e1e1e;
-  font-family: 'Times New Roman', Times, serif;
-  text-align:left;
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
   padding: 0;
   color: white;
 }
@@ -15,19 +15,19 @@ img.el {
 }
 
 .userName {
-  margin-left:300px;
-  font-family:'Times New Roman', Times, serif;
+  margin-left: 300px;
+  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   font-size: large;
 }
 
 .Intro,
 .animalSections {
-  margin-left:10px;
-  font-family:'Times New Roman', Times, serif;
+  margin-left: 10px;
+  font-family: "Times New Roman", Times, serif;
   font-weight: bold;
   font-size: large;
-  margin-bottom:5px;
+  margin-bottom: 5px;
   text-decoration: none;
   color: white;
   display: inline-block;
@@ -40,12 +40,12 @@ ul {
 }
 
 #Introducing-the-zoo {
-  clear:both;
+  clear: both;
   margin-top: 50px;
-  margin-left:0;
-  font-family:'Times New Roman', Times, serif;
+  margin-left: 0;
+  font-family: "Times New Roman", Times, serif;
   font-style: oblique;
-  color:aliceblue;
+  color: aliceblue;
 }
 
 .IntroPara {
@@ -54,13 +54,13 @@ ul {
 }
 
 .animal-collection {
-  display:flex;
+  display: flex;
   gap: 10px;
-  justify-content:flex-start;
-  margin-top:40px;
+  justify-content: flex-start;
+  margin-top: 40px;
   margin-bottom: 40px;
   padding-left: 0;
-  clear:both;
+  clear: both;
   animation: scroll-left 40s linear infinite;
   background-color: #1e1e1e;
 }
@@ -91,78 +91,80 @@ ul {
 
 .up a {
   text-decoration: none;
-  color:white;
+  color: white;
 }
 
-.c,.d,.b,.s{
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+.c,
+.d,
+.b,
+.s {
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   padding-bottom: 5px;
-  color:antiquewhite;
+  color: antiquewhite;
   text-decoration: none;
 }
 
-img.cute{
-
+img.cute {
   width: 260px;
   height: 190px;
   border-radius: 100px;
   float: left;
   margin-right: 10px;
 }
-.back{
+.back {
   text-decoration: none;
-  color:antiquewhite;
+  color: antiquewhite;
   display: inline-block;
-  
 }
 
-.cat_room{
+.cat_room {
   text-decoration: none;
-  color:antiquewhite;
+  color: antiquewhite;
 }
 
 .cat-intro {
-  display: flex;             
-  gap: 20px;                 
-  align-items: flex-start;   
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
   margin-bottom: 40px;
 }
 
 .cat-intro .pc {
-  width: 500px;              
-  height: 600px;             
-  border-radius: 50px;      
-  object-fit: cover;   
-  margin-top: 60px;      
+  width: 500px;
+  height: 600px;
+  border-radius: 50px;
+  object-fit: cover;
+  margin-top: 60px;
 }
 
 .cat-intro .intro-text {
-  max-width: 600px;          
+  max-width: 600px;
 }
 
 .cat-intro .intro-text h3 {
   font-size: x-large;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: antiquewhite;
   margin-bottom: 40px;
   margin-left: 70px;
- 
 }
 
 .cat-intro .intro-text p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;           
+  font-size: 16px;
   color: antiquewhite;
   margin-left: 70px;
   margin-top: 10px;
 }
 
 .cat-link {
-  color: antiquewhite;      
-  text-decoration: none;    
+  color: antiquewhite;
+  text-decoration: none;
 }
 
-.c-c{
+.c-c {
   font-size: x-large;
   color: antiquewhite;
   margin-left: 70px;
@@ -171,11 +173,11 @@ img.cute{
 }
 
 h1.cat-gallery {
-    color:antiquewhite !important;
+  color: antiquewhite !important;
 }
 
 h2.welcome {
-  color:antiquewhite !important;
+  color: antiquewhite !important;
 }
 
 .animal-section-container {
@@ -215,42 +217,41 @@ h2.welcome {
 }
 
 .fox-intro .pc {
-  width: 500px;              
-  height: 600px;             
-  border-radius: 50px;      
-  object-fit: cover;   
-  margin-top: 60px;      
+  width: 500px;
+  height: 600px;
+  border-radius: 50px;
+  object-fit: cover;
+  margin-top: 60px;
 }
 
 .fox-intro {
-  display: flex;          
-  gap: 20px;              
-  align-items: flex-start; 
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
   margin-bottom: 40px;
 }
 
 .fox-intro .intro-text {
-  max-width: 600px;          
+  max-width: 600px;
 }
 
 .fox-intro .intro-text h3 {
   font-size: x-large;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: antiquewhite;
   margin-bottom: 40px;
   margin-left: 70px;
- 
 }
 
 .fox-intro .intro-text p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;           
+  font-size: 16px;
   color: antiquewhite;
   margin-left: 70px;
   margin-top: 10px;
 }
 
-.p-p{
+.p-p {
   font-size: x-large;
   color: antiquewhite;
   margin-left: 70px;
@@ -259,73 +260,70 @@ h2.welcome {
 }
 
 .dog-intro .pc {
-  width: 500px;              
-  height: 600px;             
-  border-radius: 50px;      
-  object-fit: cover;   
-  margin-top: 60px;      
+  width: 500px;
+  height: 600px;
+  border-radius: 50px;
+  object-fit: cover;
+  margin-top: 60px;
 }
 
 .dog-intro {
-  display: flex;          
-  gap: 20px;              
-  align-items: flex-start; 
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
   margin-bottom: 40px;
 }
 
 .dog-intro .intro-text {
-  max-width: 600px;          
+  max-width: 600px;
 }
 
 .dog-intro .intro-text h3 {
   font-size: x-large;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: antiquewhite;
   margin-bottom: 40px;
   margin-left: 70px;
- 
 }
 
 .dog-intro .intro-text p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;           
+  font-size: 16px;
   color: antiquewhite;
   margin-left: 70px;
   margin-top: 10px;
 }
 
-
 .snake-intro .pc {
-  width: 500px;              
-  height: 600px;             
-  border-radius: 50px;      
-  object-fit: cover;   
-  margin-top: 60px;      
+  width: 500px;
+  height: 600px;
+  border-radius: 50px;
+  object-fit: cover;
+  margin-top: 60px;
 }
 
 .snake-intro {
-  display: flex;          
-  gap: 20px;              
-  align-items: flex-start; 
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
   margin-bottom: 40px;
 }
 
 .snake-intro .intro-text {
-  max-width: 600px;          
+  max-width: 600px;
 }
 
 .snake-intro .intro-text h3 {
   font-size: x-large;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: antiquewhite;
   margin-bottom: 40px;
   margin-left: 70px;
- 
 }
 
 .snake-intro .intro-text p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;           
+  font-size: 16px;
   color: antiquewhite;
   margin-left: 70px;
   margin-top: 10px;
