@@ -106,7 +106,7 @@ ul {
   text-decoration: none;
 }
 
-img.cuteCat {
+img.cute {
   width: 260px;
   height: 190px;
   border-radius: 100px;
@@ -214,4 +214,117 @@ h2.welcome {
 .animal-grid span {
   font-family: sans-serif;
   font-weight: bold;
+}
+
+.fox-intro .pc {
+  width: 500px;
+  height: 600px;
+  border-radius: 50px;
+  object-fit: cover;
+  margin-top: 60px;
+}
+
+.fox-intro {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.fox-intro .intro-text {
+  max-width: 600px;
+}
+
+.fox-intro .intro-text h3 {
+  font-size: x-large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: antiquewhite;
+  margin-bottom: 40px;
+  margin-left: 70px;
+}
+
+.fox-intro .intro-text p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: antiquewhite;
+  margin-left: 70px;
+  margin-top: 10px;
+}
+
+.p-p {
+  font-size: x-large;
+  color: antiquewhite;
+  margin-left: 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 250px;
+}
+
+.dog-intro .pc {
+  width: 500px;
+  height: 600px;
+  border-radius: 50px;
+  object-fit: cover;
+  margin-top: 60px;
+}
+
+.dog-intro {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.dog-intro .intro-text {
+  max-width: 600px;
+}
+
+.dog-intro .intro-text h3 {
+  font-size: x-large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: antiquewhite;
+  margin-bottom: 40px;
+  margin-left: 70px;
+}
+
+.dog-intro .intro-text p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: antiquewhite;
+  margin-left: 70px;
+  margin-top: 10px;
+}
+
+.snake-intro .pc {
+  width: 500px;
+  height: 600px;
+  border-radius: 50px;
+  object-fit: cover;
+  margin-top: 60px;
+}
+
+.snake-intro {
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  margin-bottom: 40px;
+}
+
+.snake-intro .intro-text {
+  max-width: 600px;
+}
+
+.snake-intro .intro-text h3 {
+  font-size: x-large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: antiquewhite;
+  margin-bottom: 40px;
+  margin-left: 70px;
+}
+
+.snake-intro .intro-text p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 16px;
+  color: antiquewhite;
+  margin-left: 70px;
+  margin-top: 10px;
 }
