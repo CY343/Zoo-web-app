@@ -177,3 +177,39 @@ h1.cat-gallery {
 h2.welcome {
   color:antiquewhite !important;
 }
+
+.animal-section-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+}
+
+.animal-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+}
+
+.animal-grid a {
+  display: block;
+  text-decoration: none;
+  color: #999;
+  text-align: center;
+}
+
+.animal-grid img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 5 / 3;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
+  margin-bottom: 2px;
+}
+
+.animal-grid span {
+  font-family: sans-serif;
+  font-weight: bold;
+}
