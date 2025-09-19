@@ -217,6 +217,34 @@ h2.welcome {
   font-weight: bold;
 }
 
+h1.center-title {
+  text-align: center;
+}
+
+.animal-info {
+  display: grid;
+  gap: 0px;
+}
+
+.animal-info img {
+  width: 50%;
+  height: auto;
+  object-fit: scale-down;
+  display: block;
+  margin: auto;
+}
+
+.animal-info p {
+  text-align: center;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+div.footnote {
+  display: flex;
+  justify-content: space-between;
+}
+
 .fox-intro .pc {
   width: 500px;
   height: 600px;
