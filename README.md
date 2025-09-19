@@ -1,6 +1,9 @@
 # Project: Mad Zoo
 # Team member: Cheng Yue (username: CY343), Christopher Altamirano (username: caltam600), and Jason Huang (username: belovedEmperor)
 
+Please note: due to my naming of the main page (zoo.html not index.html), it won't direct go to my home webpage.
+if only copy and paste https://cy343.github.io/Zoo-web-app/, you will access to the webpage only showing readme file. 
+The link to your website deployed to GitHub Pages https://cy343.github.io/Zoo-web-app/zoo.html (correct one)
 Project Overview
 
 Mad Zoo is an interactive web application designed to provide users with a fun and educational experience exploring a virtual zoo. Visitors can navigate through various animal sections, view detailed information about different species, and enjoy a visually appealing and responsive interface. The application is developed collaboratively using HTML, CSS, and JavaScript, allowing multiple contributors to add and manage animal content.
