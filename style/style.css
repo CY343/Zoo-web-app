@@ -357,3 +357,9 @@ div.footnote {
   margin-left: 70px;
   margin-top: 10px;
 }
+
+div.content-listings {
+  display: flex;
+  justify-content: flex-start;
+  column-gap: 100px;
+}
