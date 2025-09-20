@@ -43,7 +43,6 @@ Epic: Explore a Student's Zoo
 		- The animal's page displays its name.
 		- At least one image of the animal is visible.
 		- There is at least one paragraph of text describing the animal.
-![zoo](https://github.com/user-attachments/assets/746c8c85-0714-4697-91a3-fa51c211e4b3)
 
 ### Project Schedule
 <img width="1295" height="790" alt="project document" src="https://github.com/user-attachments/assets/79104877-badd-44a7-87a5-afe4bc32c3a1" />
